@@ -1,0 +1,38 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.nav_logo {
+    background: url(../images/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 74px;
+    height: 82px;
+}
+
+.my_photo {
+    background: url(../images/my_photo.png) no-repeat center center;
+    background-size: 100%;
+    width: 187px;
+    height: 353px;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.title_photo {
+    text-align: center;
+}
